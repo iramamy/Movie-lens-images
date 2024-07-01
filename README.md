@@ -1,4 +1,4 @@
-# ml1m images
+# Movie Lens 1M images
 
 Image of [MovieLens-1M data set](https://grouplens.org/datasets/movielens/1m).
 
